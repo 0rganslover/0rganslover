@@ -2,6 +2,6 @@
 
 <a href="https://organslover.atabook.org">AtaBook</a>
 
-<img src="https://i.postimg.cc/NMKT4NrQ/34433e2229c4a6deed4553eaa6f9e9f2.jpg" width="420">
+<img src="https://i.postimg.cc/8PThS6pn/Screenshot-2026-07-09-18-22-49-69-40deb401b9ffe8e1df2f1cc5ba480b12.png" width="420">
 
 </div>  
