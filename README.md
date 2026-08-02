@@ -4,8 +4,7 @@
 
 <a href="https://0rganslover.straw.page">straw page</a>
 
-<div align="center">
-  <img src="https://i.postimg.cc/W1rCZJG1/Untitled159-20260802131147.png" width="700">
+[![image](https://i.postimg.cc/YS0X3Gg9/file-0000000098548211b9da52b56fbb566f.png)](https://postimg.cc/VSyBsNKQ)
 </div>
 
 </div>  
