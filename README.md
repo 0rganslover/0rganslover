@@ -1,4 +1,5 @@
-<img src="./pixel_cat_5676_red.png">
+<img src="pixel_cat_5676_red.png" width="280">
+
 <div align="center">
 
 <a href="https://organslover.atabook.org">AtaBook</a>
