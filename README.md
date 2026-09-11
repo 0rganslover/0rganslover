@@ -1,3 +1,4 @@
+<img src="./pixel_cat_5676_red.png">
 
 <div align="center">
 
