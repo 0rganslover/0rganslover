@@ -1,4 +1,4 @@
-<img src="pixel_cat_5676_red.png" width="280">
+<img src="./pixel_cat_5676_red.png" width="280">
 
 <div align="center">
 
