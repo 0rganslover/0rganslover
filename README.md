@@ -1,7 +1,4 @@
-<p>
-  <img src="./cat.gif" width="32" height="32" align="middle">
-  <img src="https://img.shields.io/badge/5%2C676-red?style=flat-square" align="middle">
-</p>
+
 <div align="center">
 
 <a href="https://organslover.atabook.org">AtaBook</a>
