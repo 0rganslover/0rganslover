@@ -3,6 +3,6 @@
 </div>
 <div align="center">
 
-<a href="https://organslover.atabook.org">Ata</a>
-<a href="https://0rganslover.straw.page">straw</a>
-<div align="center">
+<a href="https://organslover.atabook.org">𝓪𝓽𝓪</a>
+<a href="https://0rganslover.straw.page">𝒔𝒕𝒓𝒂𝒘</a>
+<div a="center">
